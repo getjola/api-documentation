@@ -1,3 +1,1 @@
-# api-documentation
-Just click the Wiki Tab to view the documentation.
-https://github.com/getjola/api-documentation/wiki
+This repository is outdated. Please go to api.getjola.com/docs.
